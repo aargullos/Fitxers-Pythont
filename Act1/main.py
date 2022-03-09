@@ -1,3 +1,6 @@
+'''Implementa un programa que demani un text (no més de 100 caràcters) a l’usuari i el guardi en un fitxer anomenat “text.txt”.'''
+
+
 import functions
 
 def main():
